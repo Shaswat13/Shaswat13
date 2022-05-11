@@ -1,6 +1,6 @@
 - Hey, I'm Shaswat
 - I’m a explorer.   
-- I’m currently learning C and C+
+- I’m currently learning C and C++
 - Reach me through shaswatanandsdr@gmail.com
 
 <!---
