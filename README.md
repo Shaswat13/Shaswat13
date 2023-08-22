@@ -1,5 +1,5 @@
 - Hey, I'm Shaswat
-- I’m a explorer.   
+- Explorer.   
 - Currenly Working on Java FULLSTACK DEVELOPMENT
 - Reach me through shaswatanandsdr@gmail.com
 
